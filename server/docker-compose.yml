@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  datanode1:
+    image: datanode:latest
+    container_name: datanode1
+    restart: always
+    networks:
+      - dock_net
+  datanode2:
+    image: datanode:latest
+    container_name: datanode2
+    restart: always
+    networks:
+      - dock_net
+  datanode3:
+    image: datanode:latest
+    container_name: datanode3
+    restart: always
+    networks:
+      - dock_net
+  datanode_for_use:
+    image: datanode:latest
+    container_name: datanode_for_use
+    restart: always
+    networks:
+      - dock_net
+  namenode:
+    image: namenode:latest
+    container_name: namenode
+    hostname: namenode-master
+    restart: always
+    ports:
+      - "9870:9870"
+      - "8020:8020"
+      - "50030:50030"
+      - "50070:50070"
+    networks:
+      - dock_net
+networks:
+  dock_net:

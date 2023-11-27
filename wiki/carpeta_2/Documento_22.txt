@@ -1,0 +1,64 @@
+Aelius Donatus (English: ; fl. mid-fourth century AD) was a Roman grammarian and teacher of rhetoric.  
+He once taught Jerome, an early Christian Church father who is most known for his translation of the Bible into Latin, known as the Latin Vulgate. Newer revisions of the Vulgate are still in common use by the Catholic Church.
+
+Works
+He was the author of a number of professional works, of which several are extant:
+
+Ars maior – A commentary on Latin grammar.
+Ars minor – A commentary on parts of Latin Speech.
+Commentvm Terenti, Publii Terentii Comoediae Sex with preface de tragoedia et comoedia (Commentary on Terence, Six Comedies of Terence with the preface About Tragedies and Comedies) – A commentary on the playwright Terence and all six of his plays, probably compiled from other commentaries. The preface is a commentary on the "proper" structures of Tragedies and Comedies by Donatus titled, "About Comedies and Tragedies." It has never been translated to English as parts are missing from the original manuscript. It has partially been translated to German.
+Explicatio in Ciceronis De inventione (An Explanation of the Cicero's De Inventione)
+Vita Vergili (Life of Virgil) is thought to be based on a lost Vita by Suetonius, together with the preface and introduction of his commentary on Virgil's works. A greatly expanded version of Servius' commentary exists, however, which is supplemented with frequent and extensive extracts from what is thought to be Donatus' commentary on Virgil.
+Since the book is supposedly based on a Vita by Suetonius, it is also often titled Vita Suetonii vulgo Donatiana ["The Life [of Virgil], [actually] by Suetonius, [but] commonly called 'by Donatus'"], or Vita Suetoniana-Donatiana.Donatus was a proponent of an early system of punctuation, consisting of dots placed in three successively higher positions to indicate successively longer pauses, roughly equivalent to the modern comma, colon, and full stop. This system remained current through the seventh century, when a more refined system created by Isidore of Seville gained prominence.In "About Comedy and Tragedy" in his Commentary on Terence, Donatus was the first person known to document the system whereby a play is made up of three separate parts: protasis, epitasis, and catastrophe.Aelius Donatus should not be confused with Tiberius Claudius Donatus, also the author of a commentary (Interpretationes) on the Aeneid, who lived about 50 years later.
+
+Donatus auctus
+During the Renaissance, Donatus' Vita Vergili is often collected in anthologies of ancient literature. The humanists had interpolated other materials into the Vita Vergili to add details and fill in gaps, and these interpolations are collectively called Donatus auctus ["the augmented Donatus"]. Donatus auctus was added some time around 1426–37, between the first and second redactions of the De scriptoribus illustribus latinae linguae ["On Famous Writers of the Latin Language"] of Sicco Polenton, and it became the standard account of Virgil's life up until the 18th century.The text and translation is found in, with italics for the Donatus auctus and non-italics for Vita Vergili.
+See  for an evolutionary tree for all the versions of Vita Vergili.
+This Vita depicted Vergil as a wise scholar and expert in science, while disregarding the anecdotes portraying Vergil as a magician, which were added during the medieval period in other Vita.
+Donatus auctus contains one oft-quoted poem "sic vos non vobis", which was recorded in Codex Salmasianus. See section 251, 252 in I.1 of Latin Anthology (B. G. Teubner, 1982). The version recorded in Codex Salmasianus contained just two lines. Hos ego versículos feci, tulit alter honorem. 
+Sic vos non vobis mellificatis apes.It was expanded into 5 lines in Donatus auctus:Hos ego versiculos feci, tulit alter honorem. 
+Sic vos non vobis nidificatis aves. 
+Sic vos non vobis vellera fertis oves. 
+Sic vos non vobis mellificatis apes. 
+
+Sic vos non vobis fertis aratra boves. meaningThese verses have I made; another reaped the reward.
+Not for yourselves that you build nests, birds.
+Not for yourselves that you bear wool, sheep.
+Not for yourselves that you make honey, bees.
+
+Not for yourselves that you lead the plows, cattle.The story went that Virgil wrote, over the gate of the Emperor's palace, an anonymous couplet praising AugustusNocte pluit tota, redeunt spectacula mane:
+Divisum imperium cum Jove Caesar habet.meaningIt rained all night, the games return in the morning:
+Caesar and Jupiter divide the imperium between them.Augustus sent an inquiry to find out who wrote it, but Virgil did not come forth, and  mediocre poet Bacillus came forth to claim the credit. Virgil, incensed, wrote a few more lines:Hos ego versiculos feci, tulit alter honorem.
+Sic vos non vobis  
+Sic vos non vobis  
+Sic vos non vobis  
+
+Sic vos non vobis  Augustus asked Bacillus to complete the lines, but Bacillus could not, and then Virgil came forth to complete the lines, proving his authorship.
+
+References
+Further reading
+Daintree, David. 1990. "The Virgil Commentary of Aelius Donatus: Black Hole or 'Éminence Grise'?" Greece & Rome 37.1: 65–79.
+Demetriou, Chrysanthi. 2014. "Aelius Donatus and His Commentary on Terence’s Comedies." In The Oxford Handbook of Greek and Roman Comedy. Edited by Michael Fontaine and Adele C. Scafuro, 782–799. Oxford: Oxford Univ. Press.
+Dutsch, Dorota M. 2008. Feminine Discourse in Roman Comedy. Oxford: Oxford Univ. Press.
+Farrell, Joseph. 2016. "Ancient Commentaries on Theocritus’ Idylls and Virgil's Eclogues." In Classical Commentaries: Explorations in a Scholarly Genre. Edited by Christina F. Kraus and Christopher Stray, 397–418. Oxford: Oxford Univ. Press.
+Ferri, Rolando. 2016. "An Ancient Grammarian's View of How the Spoken Language Works: Pragmalinguistic Observations in Donatus' Commentum Terentii." In The Latin of the Grammarians: Reflections about Language in the Roman World. Edited by Rolando Ferri and Anna Zago. Turnhout:  Brepols Publishers.
+Gallo, Daniela (2023). Ars Riuipullensis. Commentum anonymum in Artem Donati. Firenze: Sismel Edizioni del Galluzzo. ISBN 9788892902275.
+Kragelund, Patrick. 2012. "Evidence for Performances of Republican Comedy in Fourth-century Rome." Classical Quarterly 62.1: 415–422.
+Maltby, Robert. 2003. "The Role of Etymologies in Servius and Donatus." In Etymologia: Studies in Ancient Etymology. Proceedings of the Cambridge Conference on Ancient Etymology, 25–27 September 2000. Edited by Christos Nifadopoulos, 103–118. Münster, Germany: Nodus Publikationen.
+McGill, Scott. 2014. "The Plagiarized Virgil in Donatus, Servius, and the Anthologia Latina." Harvard Studies in Classical Philology 107: 365–383.
+Murgia, Charles E. 2004. "The Truth about Vergil's Commentators." In Romane Memento: Vergil in the Fourth Century. Edited by Roger Rees, 189–200. London: Duckworth.
+Stok, F. 2012. "Commenting on Virgil, from Aelius Donatus to Servius." Dead Sea Discoveries 19.3: 464–484.
+Ziolkowski, Jan M., and Michael CJ Putnam, eds. The Virgilian tradition: the first fifteen hundred years. Yale University Press, 2017.
+
+External links
+W.J. Chase, The Ars minor of Donatus : for one thousand years the leading textbook of grammar, 1926. Latin and English translation.
+Vita Vergiliana, Aelius Donatus' Life of Virgil in the original Latin.
+Suetonius: The Life of Virgil, the Loeb English translation (which presumes that Donatus' Life "is almost wholly Suetonius’.")
+Virgil.org: Aelius Donatus' Life of Virgil translated into English by David Wilson-Okamura includes interpolated text not included in the Loeb translation
+Latin texts of some of Aelius Donatus, including the Ars Minor and all the parts of the Ars Major
+The commentary on Terence online
+Corpus Grammaticorum Latinorum: complete texts and full bibliography
+Commentum in Terentii Comoedias From the Rare Book and Special Collections Division at the Library of Congress
+
+
+== Notes ==
